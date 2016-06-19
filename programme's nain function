@@ -1,0 +1,7 @@
+#include<stdio.h>
+int main()
+{
+  printf("\t\tthe main function of this porgram:\n");
+  printf("\t\t****To Remind One Of Things Important****\n");
+  return 0;
+}
